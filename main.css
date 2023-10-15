@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+div {
+    padding: 5px;
+}
+
+.excellent {
+    background-color: yellow;
+}
